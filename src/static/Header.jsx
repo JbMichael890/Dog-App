@@ -69,7 +69,7 @@ const Holder = styled.div`
   display: flex;
   p {
     margin: 10px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
   }
 
@@ -83,7 +83,7 @@ const HolderTwo = styled.div`
   justify-content: center;
   p {
     margin: 10px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700;
   }
   @media (max-width: 768px) {
